@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: rabbitmq-example
+  rabbitmq:
+    host: rabbitmq
+    username: user
+    password: password
